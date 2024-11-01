@@ -17,11 +17,11 @@
   "Climate.Rain|block": "雨",
   "Climate.Snow|block": "雪",
   "Climate.Thunderstorm|block": "雷雨",
-  "Time.Day|block": "日",
+  "Time.Day|block": "日中",
   "Time.Night|block": "夜",
   "Time.Sunrise|block": "日の出",
   "Time.Sunset|block": "日没",
-  "Time_Activity.Day|block": "日",
+  "Time_Activity.Day|block": "日中",
   "Time_Activity.Night|block": "夜",
   "Time_Activity.Sunset|block": "日没",
   "Weather_Activity.Clear|block": "晴れ",
@@ -29,6 +29,6 @@
   "Weather_Activity.Snow|block": "雪",
   "hoc._set_activity|block": "バイオーム %b 時間 %t 天気 %w",
   "hoc.set|block": "バイオーム %b 時間 %t 天気 %w",
-  "hoc|block": "ホック2024",
-  "{id:category}Hoc": "ホック"
+  "hoc|block": "HOC2024",
+  "{id:category}Hoc": "Hoc"
 }
