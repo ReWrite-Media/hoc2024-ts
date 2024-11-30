@@ -43,6 +43,6 @@
   "MidWear_Activity.Knight_Top|block": "騎士のアーマー",
   "hoc._costume_activity|block": "頭 %u 体 %m 脚 %l",
   "hoc.costume|block": "頭 %u 体 %m 脚 %l",
-  "hoc|block": "ホック2024",
-  "{id:category}Hoc": "ホック"
+  "hoc|block": "HOC2024",
+  "{id:category}Hoc": "Hoc"
 }
